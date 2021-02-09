@@ -1,4 +1,4 @@
-package com.example.experiment;
+package com.example.NoteKeeper;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,15 +6,12 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
-import android.widget.ListView;
-import android.widget.SimpleCursorAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.material.chip.Chip;
 
 import java.text.SimpleDateFormat;
-import java.util.Date;
 
 public class MainActivity extends AppCompatActivity {
 

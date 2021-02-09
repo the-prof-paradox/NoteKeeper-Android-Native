@@ -1,4 +1,4 @@
-package com.example.experiment;
+package com.example.NoteKeeper;
 
 import org.junit.Test;
 

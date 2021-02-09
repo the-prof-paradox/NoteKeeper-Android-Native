@@ -1,4 +1,4 @@
-package com.example.experiment;
+package com.example.NoteKeeper;
 
 public class NoteModel {
     private String dateTime;
